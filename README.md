@@ -1,1 +1,1 @@
-# minimal-website
+# Minimal Website
