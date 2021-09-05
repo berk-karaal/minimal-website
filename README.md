@@ -16,4 +16,4 @@
 #### I used:
 - Bootstrap
 - Font Awesome Icons
-- Ubuntu Font-Family
+- Ubuntu Font Family
