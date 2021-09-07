@@ -1,6 +1,6 @@
 # Minimal Website
 
-### Laptop:
+### PC:
 
 ![laptop](https://user-images.githubusercontent.com/21236709/132120377-a2022655-536d-42b3-8ff6-22d3d3fdbe81.png)
 
